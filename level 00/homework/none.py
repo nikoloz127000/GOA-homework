@@ -62,6 +62,7 @@ end_fill()
 #drawing left window
 
 penup()
+
 goto(40, 60)
 pendown()
 
