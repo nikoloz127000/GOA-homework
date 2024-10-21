@@ -1,2 +1,2 @@
 list = [1, 2, 3, 4, 5]
-print(list[4])
+print(list[0] * list[3] )
