@@ -1,0 +1,16 @@
+div {
+border: border-box;
+display: flex;
+justify-content: center;
+
+box-sizing: border-box ;
+display: grid;
+grid-row-start: 2
+grid-row-end 2;
+}
+
+body {
+height: 100vh;
+place-content: center;
+
+}
